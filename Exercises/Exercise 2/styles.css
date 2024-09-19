@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0%;
+}
+
+body{
+  align-items: center;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  
+}
+
+.flex-container > div {
+  background-color: #c5c6c7;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  margin: 25px;
+  padding: 3%;
+  font-size: 16px;
+  
+}
